@@ -1,4 +1,4 @@
-# [Retrieve underlying RICs of chain RIC](https://developers.refinitiv.com/en/article-catalog/article/Retrieve-underlying-RICs-of-chain-RIC)
+# [Retrieve underlying Instrument of Chain Symbol](https://developers.refinitiv.com/en/article-catalog/article/Retrieve-underlying-Instrument-of-Chain-Symbol)
 
 Working with Refinitiv real-time data, you probably already or is going to come across a specific type of instrument called Chains. The concept of chains is relatively straightforward and decoding them is not that complicated.
 
